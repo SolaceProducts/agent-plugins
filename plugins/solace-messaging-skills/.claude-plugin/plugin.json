@@ -1,7 +1,7 @@
 {
   "name": "solace-messaging-skills",
   "description": "Skills for building applications on the Solace platform. Includes solace-application-development (designs and generates Solace messaging code grounded in canonical Solace docs), solace-topic-best-practices (looks up the canonical Topic Architecture Best Practices page online for topic-hierarchy questions), and solace-messaging-feedback (formats a session into copy-paste-ready feedback routed to the Solace Ideas portal, Solace Support, or the Solace Community)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "Apache-2.0",
   "author": {
     "name": "Solace"
